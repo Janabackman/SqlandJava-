@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8556da25-af88-4c54-ab3b-cf9dec06d4ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gZ30kt0WzhhdbtebcBHeD8vctf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql-connector-java-8.0.19.jar!/" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.155" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="sqlJava" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8556da25-af88-4c54-ab3b-cf9dec06d4ea" name="Default Changelist" comment="" />
+      <created>1598308066416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598308066416</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="0" key="#Project_Structure" timestamp="1598308624117">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="410" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1598308624117" />
+    <state x="520" y="110" key="FileChooserDialogImpl" timestamp="1598308582950">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="520" y="110" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598308582950" />
+    <state width="872" height="129" key="GridCell.Tab.0.bottom" timestamp="1598308844339">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="872" height="129" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598308844339" />
+    <state width="872" height="129" key="GridCell.Tab.0.center" timestamp="1598308844338">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="872" height="129" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598308844338" />
+    <state width="872" height="129" key="GridCell.Tab.0.left" timestamp="1598308844338">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="872" height="129" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598308844338" />
+    <state width="872" height="129" key="GridCell.Tab.0.right" timestamp="1598308844338">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="872" height="129" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598308844338" />
+  </component>
+</project>
